@@ -1109,3 +1109,14 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+.footer {
+    text-align: center;
+    font-size: small;
+    color: #A0AAB8;
+}
