@@ -1,0 +1,281 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ahmed Hassan",
+      "email": "ahmed.hassan@student.edu",
+      "phone": "01012345678",
+      "department": "Computer Science",
+      "gpa": 3.8,
+      "enrollmentDate": "2023-09-01"
+    },
+    {
+      "id": 2,
+      "name": "Sara Mohamed",
+      "email": "sara.mohamed@student.edu",
+      "phone": "01023456789",
+      "department": "Engineering",
+      "gpa": 3.9,
+      "enrollmentDate": "2023-09-01"
+    },
+    {
+      "id": 3,
+      "name": "Omar Ali",
+      "email": "omar.ali@student.edu",
+      "phone": "01034567890",
+      "department": "Business",
+      "gpa": 3.5,
+      "enrollmentDate": "2022-09-01"
+    },
+    {
+      "id": 4,
+      "name": "Nour Khaled",
+      "email": "nour.khaled@student.edu",
+      "phone": "01045678901",
+      "department": "Computer Science",
+      "gpa": 3.7,
+      "enrollmentDate": "2023-09-01"
+    },
+    {
+      "id": 5,
+      "name": "Youssef Ibrahim",
+      "email": "youssef.ibrahim@student.edu",
+      "phone": "01056789012",
+      "department": "Medicine",
+      "gpa": 3.95,
+      "enrollmentDate": "2022-09-01"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "code": "CS101",
+      "name": "Introduction to Programming",
+      "credits": 3,
+      "department": "Computer Science",
+      "instructor": "Dr. Ahmed Mostafa"
+    },
+    {
+      "id": 2,
+      "code": "ENG201",
+      "name": "Digital Systems",
+      "credits": 4,
+      "department": "Engineering",
+      "instructor": "Dr. Mona Samy"
+    },
+    {
+      "id": 3,
+      "code": "BUS301",
+      "name": "Marketing Fundamentals",
+      "credits": 3,
+      "department": "Business",
+      "instructor": "Dr. Karim Nabil"
+    },
+    {
+      "id": 4,
+      "code": "CS202",
+      "name": "Data Structures and Algorithms",
+      "credits": 4,
+      "department": "Computer Science",
+      "instructor": "Dr. Ahmed Mostafa"
+    },
+    {
+      "id": 5,
+      "code": "MATH101",
+      "name": "Calculus I",
+      "credits": 4,
+      "department": "Mathematics",
+      "instructor": "Dr. Sara Ahmed"
+    },
+    {
+      "id": 6,
+      "code": "PHY201",
+      "name": "Physics for Engineers",
+      "credits": 3,
+      "department": "Physics",
+      "instructor": "Dr. Hassan Ali"
+    },
+    {
+      "id": 7,
+      "code": "CS305",
+      "name": "Database Management Systems",
+      "credits": 3,
+      "department": "Computer Science",
+      "instructor": "Dr. Ahmed Mostafa"
+    },
+    {
+      "id": 8,
+      "code": "BUS201",
+      "name": "Financial Accounting",
+      "credits": 3,
+      "department": "Business",
+      "instructor": "Dr. Karim Nabil"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Dr. Ahmed Mostafa",
+      "email": "ahmed.mostafa@university.edu",
+      "phone": "01098765432",
+      "department": "Computer Science",
+      "specialization": "Software Engineering",
+      "hireDate": "2015-09-01"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Mona Samy",
+      "email": "mona.samy@university.edu",
+      "phone": "01087654321",
+      "department": "Engineering",
+      "specialization": "Electronics",
+      "hireDate": "2017-09-01"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Karim Nabil",
+      "email": "karim.nabil@university.edu",
+      "phone": "01076543210",
+      "department": "Business",
+      "specialization": "Marketing & Management",
+      "hireDate": "2018-09-01"
+    },
+    {
+      "id": 4,
+      "name": "Prof. Sara Ahmed",
+      "email": "sara.ahmed@university.edu",
+      "phone": "01065432109",
+      "department": "Mathematics",
+      "specialization": "Applied Mathematics",
+      "hireDate": "2012-09-01"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Hassan Ali",
+      "email": "hassan.ali@university.edu",
+      "phone": "01054321098",
+      "department": "Physics",
+      "specialization": "Quantum Physics",
+      "hireDate": "2016-09-01"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Layla Mahmoud",
+      "email": "layla.mahmoud@university.edu",
+      "phone": "01043210987",
+      "department": "Computer Science",
+      "specialization": "Artificial Intelligence",
+      "hireDate": "2019-09-01"
+    },
+    {
+      "id": 7,
+      "name": "Prof. Omar Khalil",
+      "email": "omar.khalil@university.edu",
+      "phone": "01032109876",
+      "department": "Medicine",
+      "specialization": "Surgery",
+      "hireDate": "2010-09-01"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Nour Ibrahim",
+      "email": "nour.ibrahim@university.edu",
+      "phone": "01021098765",
+      "department": "Chemistry",
+      "specialization": "Organic Chemistry",
+      "hireDate": "2020-09-01"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Fatma Ahmed",
+      "email": "fatma.ahmed@university.edu",
+      "phone": "01011112222",
+      "position": "Student Affairs Officer",
+      "department": "Administration",
+      "hireDate": "2020-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Hassan Mohamed",
+      "email": "hassan.mohamed@university.edu",
+      "phone": "01022223333",
+      "position": "Registration Coordinator",
+      "department": "Admissions",
+      "hireDate": "2019-06-01"
+    },
+    {
+      "id": 3,
+      "name": "Layla Youssef",
+      "email": "layla.youssef@university.edu",
+      "phone": "01033334444",
+      "position": "Academic Advisor",
+      "department": "Student Services",
+      "hireDate": "2021-03-10"
+    },
+    {
+      "id": 4,
+      "name": "Khaled Hassan",
+      "email": "khaled.hassan@university.edu",
+      "phone": "01044445555",
+      "position": "Admissions Officer",
+      "department": "Admissions",
+      "hireDate": "2018-09-01"
+    },
+    {
+      "id": 5,
+      "name": "Nadia Ibrahim",
+      "email": "nadia.ibrahim@university.edu",
+      "phone": "01055556666",
+      "position": "Financial Aid Officer",
+      "department": "Financial Aid",
+      "hireDate": "2020-08-15"
+    },
+    {
+      "id": 6,
+      "name": "Tamer Ali",
+      "email": "tamer.ali@university.edu",
+      "phone": "01066667777",
+      "position": "Records Manager",
+      "department": "Registrar",
+      "hireDate": "2017-11-01"
+    },
+    {
+      "id": 7,
+      "name": "Salma Mahmoud",
+      "email": "salma.mahmoud@university.edu",
+      "phone": "01077778888",
+      "position": "IT Support Specialist",
+      "department": "IT Department",
+      "hireDate": "2021-05-20"
+    },
+    {
+      "id": 8,
+      "name": "Kamal Fathy",
+      "email": "kamal.fathy@university.edu",
+      "phone": "01088889999",
+      "position": "HR Manager",
+      "department": "Human Resources",
+      "hireDate": "2016-02-10"
+    },
+    {
+      "id": 9,
+      "name": "Rania Saeed",
+      "email": "rania.saeed@university.edu",
+      "phone": "01099990000",
+      "position": "Administrative Assistant",
+      "department": "Administration",
+      "hireDate": "2022-01-05"
+    },
+    {
+      "id": 10,
+      "name": "Yasser Kamal",
+      "email": "yasser.kamal@university.edu",
+      "phone": "01000001111",
+      "position": "Facilities Manager",
+      "department": "Facilities",
+      "hireDate": "2015-07-15"
+    }
+  ]
+}
